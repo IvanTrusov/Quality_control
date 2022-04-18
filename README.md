@@ -1,0 +1,2 @@
+### Processing of primary genomic sequencing data ###
+This script is an analogue of FastQC, capable of working faster and more efficiently. Its main advantage is the possibility of its modernization, speed, as well as the possibility of using the received data directly in the subsequent stages of data processing.This script is written in Python 3.8. Before working, install the libraries from requirements.txt and run main.py . Have a nice experience!

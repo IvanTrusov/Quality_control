@@ -50,7 +50,7 @@ def start_work():
     if len(available_files) < 1:
 
         while len(available_files) < 1:
-            print('Sorry, but the folder must, contain fastq or fastq.gz files')
+            print('Sorry, but the folder must contain fastq or fastq.gz files')
 
             print('Print e/t to exit or try again')
 

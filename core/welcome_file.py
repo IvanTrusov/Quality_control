@@ -78,7 +78,7 @@ def start_work():
     for file in available_files:
         print(file)
 
-    print('\n' + 'Print the name of the file you want to process and press Enter')
+    print('\n' + 'Copy the name of the file you want to process')
 
     file = str(input())
 
